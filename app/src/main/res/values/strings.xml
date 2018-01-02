@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetailStore</string>
+    <string name="total_Cart">Total Cart Amount\t\tRs:  %d.</string>
+    <string name="add_to_wishList">Add to wishList</string>
+    <string name="remove">Remove</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="cart_count">Cart (%d)</string>
+</resources>
